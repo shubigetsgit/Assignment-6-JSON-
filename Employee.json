@@ -1,0 +1,39 @@
+{
+  "employee": [
+    {
+      "Emp_Name": "Tom Riddle",
+      "DOB": "11/8/1943",
+      "Height": "180cm",
+      "City": "Bangalore",
+      "State": "Karnataka"
+    },
+    {
+      "Emp_Name": "Harry Potter",
+      "DOB": "11/8/1995",
+      "Height": "160cm",
+      "City": "Bangalore",
+      "State": "Karnataka"
+    },
+    {
+      "Emp_Name": "Ron Weasley",
+      "DOB": "13/6/1995",
+      "Height": "181cm",
+      "City": "Bangalore",
+      "State": "Karnataka"
+    },
+    {
+      "Emp_Name": "Hermoine Granger",
+      "DOB": "22/2/1995",
+      "Height": "153cm",
+      "City": "Bangalore",
+      "State": "Karnataka"
+    },
+    {
+      "Emp_Name": "Severus Snape",
+      "DOB": "22/2/1995",
+      "Height": "170cm",
+      "City": "Bangalore",
+      "State": "Karnataka"
+    }
+  ]
+}
